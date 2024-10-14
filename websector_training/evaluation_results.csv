@@ -1,0 +1,6 @@
+subdir,Accuracy,Precision (Weighted),Recall (Weighted),Top-1 Recall,Top-2 Recall,Top-3 Recall,AUC,Prediction Entropy
+loss_wan0.0_roberta,0.1,0.038,1.0,0.196,0.349,0.486,0.554,0.0
+loss_wan0.1_roberta,0.885,0.679,0.862,0.68,0.823,0.854,0.935,1.972
+loss_wan0.3_roberta,0.928,0.679,0.76,0.679,0.758,0.76,0.934,1.454
+loss_wan1.0_roberta,0.939,0.672,0.613,0.611,0.613,0.613,0.927,1.055
+LSTM,0.914,0.612,0.685,0.605,0.684,0.685,0.907,1.732

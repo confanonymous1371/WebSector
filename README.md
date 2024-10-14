@@ -14,8 +14,8 @@ This dataset includes 195,495 websites categorized into ten distinct web sectors
 
 We provide two pre-trained models, each optimized for different use cases:
 
-1. [WebSector-Flexible](https://huggingface.co/Shahriar/WebSector-Flexible/): Designed for broader multi-sector predictions.
-2. [WebSector-Conservative](https://huggingface.co/Shahriar/WebSector-Conservative/): Focused on primary sector identification with limited multi-sector classifications.
+1. [WebSector-More-sector](https://huggingface.co/Shahriar/WebSector-Flexible/): Designed for broader multi-sector predictions.
+2. [WebSector-Fewer-Sector](https://huggingface.co/Shahriar/WebSector-Conservative/): Focused on primary sector identification with limited multi-sector classifications.
 
 These models represent different modes of the WebSector framework, allowing users to choose based on their specific requirements.
 

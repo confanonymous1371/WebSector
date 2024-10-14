@@ -1,5 +1,3 @@
-Here's the markdown version of the README that you can upload:
-
 # WebSector: Multi-Sector Website Classification Framework
 
 This repository contains the code and resources for the WebSector project, a novel approach to multi-sector website classification using the Single Positive Label (SPL) paradigm.

@@ -51,7 +51,3 @@ We thank the anonymous reviewers for their valuable feedback. We also acknowledg
 ---
 
 Note: This README is designed for the anonymity period. It will be updated with more detailed information, including installation instructions, full usage examples, and proper citations, upon the conclusion of the peer review process.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33719550/0bb6c247-4582-4f08-a0ee-15a267e4f755/WebConf2025_Shahriar_Final-1.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33719550/df639e12-196c-4340-bf6c-6779670ee463/WebConf2025_Shahriar-6.pdf
